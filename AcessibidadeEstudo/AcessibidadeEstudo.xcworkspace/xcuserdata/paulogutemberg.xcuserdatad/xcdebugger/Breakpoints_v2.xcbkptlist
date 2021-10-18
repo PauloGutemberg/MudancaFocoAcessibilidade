@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "596AE84C-0D8D-4BED-A9E2-E38F74E14C92"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B3367DB6-9322-4DC1-BF28-CB84E18D478C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AcessibidadeEstudo/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "56"
+            endingLineNumber = "56"
+            landmarkName = "fecharPressionado()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "B3367DB6-9322-4DC1-BF28-CB84E18D478C - 10aeb9c1b179835b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AcessibidadeEstudo.ViewController.fecharPressionado() -&gt; ()"
+                  moduleName = "AcessibidadeEstudo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/paulogutemberg/Documents/ios/AcessibidadeEstudo/AcessibidadeEstudo/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "56"
+                  endingLineNumber = "56"
+                  offsetFromSymbolStart = "452">
+               </Location>
+               <Location
+                  uuid = "B3367DB6-9322-4DC1-BF28-CB84E18D478C - c60dece7bebbdd5d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "implicit closure #2 () -&gt; () in implicit closure #1 (AcessibidadeEstudo.PrimeiraView) -&gt; () -&gt; () in AcessibidadeEstudo.ViewController.fecharPressionado() -&gt; ()"
+                  moduleName = "AcessibidadeEstudo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/paulogutemberg/Documents/ios/AcessibidadeEstudo/AcessibidadeEstudo/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "56"
+                  endingLineNumber = "56"
+                  offsetFromSymbolStart = "24">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
